@@ -92,6 +92,19 @@ section#img02 {
     background-image: url('../imagens/istockphoto-1309580130-612x612.jpg');
     
 }
+div.video {
+    background-color: rgba(255, 0, 0, 0.644);
+    padding: 20px;
+    padding-bottom: 50%;
+    position: relative;
+}
+div.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
 
 footer {
     background-color: black;
