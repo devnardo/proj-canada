@@ -26,7 +26,14 @@ html, body {
 header {
     background-color: black;
     color: white;
-    text-align: center;
+    
+}
+header > ul {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#menu li {
+    display: inline;
+    
 }
 
 header > h1 {
