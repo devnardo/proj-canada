@@ -29,6 +29,10 @@ header {
     text-align: center;
     
 }
+h2 {
+    text-align: center;
+    background-image: linear-gradient(red, white);
+}
 header > ul {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
