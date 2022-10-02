@@ -87,12 +87,13 @@ section.imagem {
     box-shadow: inset 6px 6px 13px 0px black;
     background-size: cover;
     background-attachment: fixed;
+    text-align: left;
 }
 
 section.imagem > p {
     display: inline-block;
     padding: 5px;
-    background-color: rgba(0, 0, 0, 0.514);
+    background-color: rgba(0, 0, 0, 0.26);
     text-shadow: 1px 1px 0px black;
 }
 
