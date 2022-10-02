@@ -2,14 +2,14 @@
 
 @import url('https://fonts.googleapis.com/css2? family= Passion+One & display=swap');
 
-@import url('https://fonts.googleapis.com/css2? family= Sriracha & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Abyssinica+SIL & display=swap');
 
 
 
 :root {
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2:'Passion One', cursiva;
-    --fonte3: 'Sriracha', cursive;
+    --fonte3: 'Abyssinica SIL', serifa;
 }
 
 * {
@@ -62,10 +62,10 @@ header a:hover, footer a:hover {
 section {
     padding-top: 10vh;
     padding-bottom: 10vh;
-    line-height: 2em;
+    line-height: 1.5em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 3.5vw;
+    font-size: 2vw;
 }
 
 section > p {
